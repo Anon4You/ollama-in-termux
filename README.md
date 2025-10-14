@@ -8,6 +8,8 @@
 
 Welcome to the Ollama Installation Script for Termux! This script automates the installation of Ollama, a powerful language model, in a Termux environment using Proot.
 
+> ! Note no need to install this the package ollama is now already available in termux officiall repository and working perfectly 
+
 ## 🚀 Prerequisites
 
 Before running the script, ensure you have:
